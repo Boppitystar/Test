@@ -5,4 +5,8 @@ public class Test {
     public int d; 
 
     public int yum; 
+
+    public Test(){
+        this.sides = 3; 
+    }
 }
