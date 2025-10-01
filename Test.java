@@ -8,7 +8,6 @@ public class Test {
 
     public Test(){
         this.sides = 3; 
-        this.d = 2;
-        this.yum =4; 
+        this.d =3; 
     }
 }
